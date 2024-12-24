@@ -6,6 +6,7 @@
 // add "dev": "node server.js" then type 'npm run dev', but this method doesn't respond to changes in codebase
 // instead, install nodemon, a developer dependency, using 'npm install --save-dev nodemon'
 // change "dev": "node server.js" to "dev": "nodemon server.js", now changes will be reflected in terminal
+    // note: in latest version of node, nodemon is not necessary anymore for development
 
 // initialize server using Express.js with 4 main lines of code
 
